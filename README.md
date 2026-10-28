@@ -2,8 +2,8 @@
 
 An ExtendScript for Adobe InDesign that counts the objects on the pasteboard of the active document and deletes them after you confirm.
 
-Video: https://youtu.be/py8SKEviq0Q
-Written guide: https://www.linguist-coder.com/2026/04/scaling-multilingual-dtp-by-detecting.html
+- Video: https://youtu.be/py8SKEviq0Q
+- Written guide: https://www.linguist-coder.com/2026/04/scaling-multilingual-dtp-by-detecting.html
 
 ## Install
 
