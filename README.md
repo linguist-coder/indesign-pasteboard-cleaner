@@ -42,6 +42,10 @@ What we saw in our tests:
 
 Adobe InDesign 2026 (21.5) on Windows. Not tested on macOS.
 
+## Custom scripts
+
+Need a script for your own InDesign or Illustrator task? See [Work with me](https://www.linguist-coder.com/work-with-me.html).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
